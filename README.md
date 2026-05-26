@@ -1,4 +1,4 @@
-# Int1-Practica02-250900"
+# Int1-Practica02-250859"
 ---
 En esta practica aprenderemos a utilizar la sherramientas Git y Github para el control de versiones de proyecto de desarrollo de software, aplicando principios de buena practica
 en documentos , desarrollo colaborativo y respaldo en la nube del proyecto integrador
@@ -53,4 +53,4 @@ en caso de quue necesitemos alinear el parrafo a **izquierda**, **derecha**, **c
 
 <p align="right"> parrafo alineado a la derecha parrafo alineado a la derecha parrafo alineado a la derecha parrafo alineado a la derecha parrafo alineado a la derecha parrafo alineado a la derecha parrafo alineado a la derecha parrafo alineado a la derecha parrafo alineado a la derecha parrafo alineado a la derecha parrafo alineado a la derecha parrafo alineado a la derecha 
 
-<p align="justify"> parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo
+<p align="justify"> parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafo justificado parrafos
